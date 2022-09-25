@@ -61,4 +61,4 @@ $(document).on("keypress", (e)=>{
     for(let i = 0; i < hashMap.length; i++)if (hashMap[i].logo.toLowerCase() === key) window.open(hashMap[i].url);
 });
 
-//# sourceMappingURL=index.de158e3a.js.map
+//# sourceMappingURL=index.e1d07666.js.map
